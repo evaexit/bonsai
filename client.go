@@ -29,7 +29,7 @@ type Peer struct {
 }
 
 var PEERS = []Peer{
-	{Address: "ip:7000", Name: "Bonsai-1"},
+	{Address: "ip:port", Name: "Bonsai-1"},
 }
 
 type ClientPeer struct {
